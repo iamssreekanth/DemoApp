@@ -1,2 +1,0 @@
-# DemoApp
-Angular
